@@ -1,0 +1,18 @@
+C:\Users\asus-\AppData\Local\Temporary Projects\teaching-c\bin\Debug\teaching-c.exe.config
+C:\Users\asus-\AppData\Local\Temporary Projects\teaching-c\bin\Debug\teaching-c.exe
+C:\Users\asus-\AppData\Local\Temporary Projects\teaching-c\bin\Debug\teaching-c.pdb
+C:\Users\asus-\AppData\Local\Temporary Projects\teaching-c\obj\Debug\teaching-c.csprojResolveAssemblyReference.cache
+C:\Users\asus-\AppData\Local\Temporary Projects\teaching-c\obj\Debug\teaching_c.Form1.resources
+C:\Users\asus-\AppData\Local\Temporary Projects\teaching-c\obj\Debug\teaching_c.Properties.Resources.resources
+C:\Users\asus-\AppData\Local\Temporary Projects\teaching-c\obj\Debug\teaching-c.csproj.GenerateResource.Cache
+C:\Users\asus-\AppData\Local\Temporary Projects\teaching-c\obj\Debug\teaching-c.exe
+C:\Users\asus-\AppData\Local\Temporary Projects\teaching-c\obj\Debug\teaching-c.pdb
+C:\Users\asus-\Documents\Visual Studio 2012\Projects\teaching-c\teaching-c\bin\Debug\teaching-c.exe.config
+C:\Users\asus-\Documents\Visual Studio 2012\Projects\teaching-c\teaching-c\obj\Debug\teaching-c.exe
+C:\Users\asus-\Documents\Visual Studio 2012\Projects\teaching-c\teaching-c\obj\Debug\teaching-c.pdb
+C:\Users\asus-\Documents\Visual Studio 2012\Projects\teaching-c\teaching-c\bin\Debug\teaching-c.exe
+C:\Users\asus-\Documents\Visual Studio 2012\Projects\teaching-c\teaching-c\bin\Debug\teaching-c.pdb
+C:\Users\asus-\Documents\Visual Studio 2012\Projects\teaching-c\teaching-c\obj\Debug\teaching-c.csprojResolveAssemblyReference.cache
+C:\Users\asus-\Documents\Visual Studio 2012\Projects\teaching-c\teaching-c\obj\Debug\teaching_c.Properties.Resources.resources
+C:\Users\asus-\Documents\Visual Studio 2012\Projects\teaching-c\teaching-c\obj\Debug\teaching-c.csproj.GenerateResource.Cache
+C:\Users\asus-\Documents\Visual Studio 2012\Projects\teaching-c\teaching-c\obj\Debug\teaching_c.Form1.resources
